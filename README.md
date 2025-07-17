@@ -59,12 +59,6 @@ No build or install required!
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot of Score Keeper Game](./screenshot.png)  
-> *(Add your own image here)*
-
----
 
 ## ✅ Example UI Elements
 
